@@ -1,0 +1,23 @@
+.Card {
+  border: solid 2px rgb(255, 0, 0);
+  text-align: center;
+  background-color: green;
+  border-radius: 15px;
+}
+
+.text {
+  font-size: 5ch;
+  word-wrap: break-word;
+}
+
+.SubmitCompleted {
+  width: auto;
+  display: flex;
+  justify-content: right;
+}
+
+.SubmitCompletedButton {
+  font-size: 3vw;
+  border-radius: 5%;
+  cursor: pointer;
+}

@@ -1,0 +1,13 @@
+.HorizontalLine {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.selectPage {
+  font-size: 50px;
+  background-color: aqua;
+  border: aqua;
+  cursor: pointer;
+  width: 100px;
+  border-radius: 15%;
+}
